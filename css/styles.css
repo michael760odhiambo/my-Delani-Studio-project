@@ -11,3 +11,12 @@
     background-image: url("file:///home/moringa/delani_studio_site/css/assets/s_image.jpg");
     
 }
+.row{
+    
+}
+.col-md-4{
+    display:flex;
+    flex-direction:row;
+    padding: 20px;
+    text-align: center;
+}
