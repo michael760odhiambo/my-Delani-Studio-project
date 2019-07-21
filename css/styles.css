@@ -49,3 +49,10 @@ body{
     display:inline-block;
     border-radius: 50px 50px 50px 50px;
 }
+#col:hover{
+    transition-duration: 2s;
+
+}
+#p1{
+    display: none;
+}
