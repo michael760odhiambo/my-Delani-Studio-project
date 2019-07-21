@@ -16,6 +16,7 @@ test-driven development and pair programming.
 ** jQuery
 
 # Live link to the site
+ https://michael760odhiambo.github.io/my-Delani-Studio-project/
 
 # Linsence
 ** MIT License
