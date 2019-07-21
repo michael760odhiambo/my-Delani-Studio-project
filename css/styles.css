@@ -52,7 +52,11 @@ body{
 #col:hover{
     transition-duration: 2s;
 
+
+.form-control{
+    background-color: black;
+    opacity: 0, 0, 0.89;
 }
-#sec-showing{
+#sec{
     display: none;
 }

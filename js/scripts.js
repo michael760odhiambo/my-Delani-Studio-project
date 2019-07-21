@@ -1,6 +1,6 @@
 $(document).ready(function(){
-    $("#sec-showing").click(function(){
-        $("#icon").toggle();
-
+    $("#ok1").click(function(){
+        $("#sec").toggle();
+        $("#sec").toggle();
     })
 })
