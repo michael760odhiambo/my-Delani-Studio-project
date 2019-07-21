@@ -7,3 +7,10 @@ and web development technologies.
 We collaborate with your team to write, and improve
 code on a daily basis, using proven practices such as
 test-driven development and pair programming.
+
+# Technologies used
+** html
+** css
+** bootstrap
+** javascript
+** jQuery
