@@ -52,11 +52,22 @@ font-size:20px;
 form{
     padding:20%;
 }
-
+#name{
+    background-color: transparent;
+}
+#email{
+    background-color: transparent;
+}
+#text{
+    background-color: transparent;
+}
 
 #social{
     padding-top:10px;
 }
 .colo{
 display: none;
+}
+.red{
+    color: white;
 }
