@@ -53,9 +53,3 @@ $(document).ready(function(){
         event.preventDefault();
     });
 });
-
-$(document).ready(function(){
-    $("#col1").hover(function(){
-        $(.colo).show();
-    })
-})
