@@ -38,3 +38,18 @@ $(document).ready(function(){
         $("#hiden3").hide();
     });
 });
+
+$(document).ready(function(){
+    $("form#form").submit(function(event){
+        var name = $("input#name").val();
+        var email = $("input#email").val();
+        var text = $("input#text").val();
+
+        if($("input#name").val() /*&& $("input#email").val() && $("input#text").val()*/ !=""){
+            alert(name +". "+ "We have received your message." + "Thank you for reaching out to us.")
+        }else {
+            alert("your data is invalid")
+        }
+        event.preventDefault();
+    });
+});
