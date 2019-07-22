@@ -15,7 +15,7 @@
 
 #img2{
     background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true");
-    height:650px;
+    height:600px;
 }
 body{
     text-align: center;
@@ -53,6 +53,10 @@ form{
     padding:20%;
 }
 
+
 #social{
     padding-top:10px;
+}
+.colo{
+display: none;
 }
